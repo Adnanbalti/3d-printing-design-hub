@@ -1,0 +1,13 @@
+export const CubeMark = ({ size = 24 }: { size?: number }) => <svg width={size} height={size} viewBox="0 0 30 30" aria-hidden="true" className="shrink-0"><polygon points="15,2 27,9 15,16 3,9" fill="#FF641F" /><polygon points="3,9 15,16 15,29 3,22" fill="#C94A12" /><polygon points="27,9 15,16 15,29 27,22" fill="#E85A25" /></svg>;
+const s = { width: 28, height: 28, viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: 1.8, strokeLinejoin: "round" as const, "aria-hidden": true };
+export const Cube = () => <svg {...s}><path d="M12 2l9 5v10l-9 5-9-5V7z" /><path d="M12 12l9-5M12 12L3 7M12 12v10" /></svg>;
+export const Bolt = () => <svg {...s}><path d="M13 2L4 14h7l-1 8 9-12h-7z" /></svg>;
+export const Shield = () => <svg {...s}><path d="M12 2l8 3v6c0 5-3.5 9-8 11-4.5-2-8-6-8-11V5z" /><path d="M8.5 12l2.5 2.5L16 9" /></svg>;
+export const FiverrIcon = ({ size = 22 }: { size?: number }) => <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden><circle cx="12" cy="12" r="12" fill="#1DBF73" /><text x="12" y="16.5" textAnchor="middle" fontSize="11" fontWeight="800" fill="#fff" fontFamily="Arial,sans-serif">fi</text></svg>;
+export const BehanceIcon = ({ size = 22 }: { size?: number }) => <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden><rect width="24" height="24" rx="6" fill="#1769FF" /><text x="12" y="16" textAnchor="middle" fontSize="10.5" fontWeight="800" fill="#fff" fontFamily="Arial,sans-serif">Bē</text></svg>;
+
+const arrowProps = { fill: "none", stroke: "currentColor", strokeWidth: 2, strokeLinecap: "round" as const, strokeLinejoin: "round" as const, "aria-hidden": true };
+/** Long straight arrow: primary call-to-action. Nudges right on hover (parent needs the `group` class). */
+export const ArrowRight = ({ size = 18 }: { size?: number }) => <svg width={size} height={size} viewBox="0 0 24 24" {...arrowProps} className="shrink-0 transition-transform duration-200 group-hover:translate-x-1"><path d="M3 12h17M14 6l6 6-6 6" /></svg>;
+/** Diagonal arrow inside a small circle: secondary call-to-action. Lifts toward the corner on hover. */
+export const ArrowUpRight = ({ size = 22 }: { size?: number }) => <span className="flex shrink-0 items-center justify-center rounded-full border border-white/35 transition group-hover:border-brand group-hover:bg-brand group-hover:text-white" style={{ width: size, height: size }}><svg width={size * 0.55} height={size * 0.55} viewBox="0 0 24 24" {...arrowProps} strokeWidth={2.4} className="transition-transform duration-200 group-hover:-translate-y-px group-hover:translate-x-px"><path d="M7 17 17 7M8 7h9v9" /></svg></span>;

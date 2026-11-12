@@ -1,0 +1,587 @@
+{
+ "design": [
+  {
+   "n": 1,
+   "slug": "d1",
+   "title": "Cordless Drill (Chuck & Housing)",
+   "cover": "/portfolio/design/p01/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p01/01.webp",
+     "alt": "Cordless Drill (Chuck & Housing): view 1"
+    },
+    {
+     "src": "/portfolio/design/p01/02.webp",
+     "alt": "Cordless Drill (Chuck & Housing): view 2"
+    },
+    {
+     "src": "/portfolio/design/p01/03.webp",
+     "alt": "Cordless Drill (Chuck & Housing): view 3"
+    },
+    {
+     "src": "/portfolio/design/p01/04.webp",
+     "alt": "Cordless Drill (Chuck & Housing): view 4"
+    },
+    {
+     "src": "/portfolio/design/p01/05.webp",
+     "alt": "Cordless Drill (Chuck & Housing): view 5"
+    },
+    {
+     "src": "/portfolio/design/p01/06.webp",
+     "alt": "Cordless Drill (Chuck & Housing): view 6"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "d2",
+   "title": "3D Logo Plaque",
+   "cover": "/portfolio/design/p02/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p02/01.webp",
+     "alt": "3D Logo Plaque: view 1"
+    },
+    {
+     "src": "/portfolio/design/p02/02.webp",
+     "alt": "3D Logo Plaque: view 2"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "d3",
+   "title": "Water Dispenser",
+   "cover": "/portfolio/design/p03/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p03/01.webp",
+     "alt": "Water Dispenser: view 1"
+    },
+    {
+     "src": "/portfolio/design/p03/02.webp",
+     "alt": "Water Dispenser: view 2"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "d4",
+   "title": "Calligraphy Fountain Pen",
+   "cover": "/portfolio/design/p04/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p04/01.webp",
+     "alt": "Calligraphy Fountain Pen: view 1"
+    },
+    {
+     "src": "/portfolio/design/p04/02.webp",
+     "alt": "Calligraphy Fountain Pen: view 2"
+    },
+    {
+     "src": "/portfolio/design/p04/03.webp",
+     "alt": "Calligraphy Fountain Pen: view 3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "d5",
+   "title": "Pill-Shaped Device (Inbrackets)",
+   "cover": "/portfolio/design/p05/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p05/01.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 1"
+    },
+    {
+     "src": "/portfolio/design/p05/02.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 2"
+    },
+    {
+     "src": "/portfolio/design/p05/03.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 3"
+    },
+    {
+     "src": "/portfolio/design/p05/04.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 4"
+    },
+    {
+     "src": "/portfolio/design/p05/05.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 5"
+    },
+    {
+     "src": "/portfolio/design/p05/06.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 6"
+    },
+    {
+     "src": "/portfolio/design/p05/07.webp",
+     "alt": "Pill-Shaped Device (Inbrackets): view 7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "slug": "d6",
+   "title": "Wheel Rims & Rotor Mechanism",
+   "cover": "/portfolio/design/p06/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p06/01.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 1"
+    },
+    {
+     "src": "/portfolio/design/p06/02.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 2"
+    },
+    {
+     "src": "/portfolio/design/p06/03.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 3"
+    },
+    {
+     "src": "/portfolio/design/p06/04.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 4"
+    },
+    {
+     "src": "/portfolio/design/p06/05.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 5"
+    },
+    {
+     "src": "/portfolio/design/p06/06.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 6"
+    },
+    {
+     "src": "/portfolio/design/p06/07.webp",
+     "alt": "Wheel Rims & Rotor Mechanism: view 7"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "slug": "d7",
+   "title": "Handle & Scraper Tool",
+   "cover": "/portfolio/design/p07/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p07/01.webp",
+     "alt": "Handle & Scraper Tool: view 1"
+    },
+    {
+     "src": "/portfolio/design/p07/02.webp",
+     "alt": "Handle & Scraper Tool: view 2"
+    },
+    {
+     "src": "/portfolio/design/p07/03.webp",
+     "alt": "Handle & Scraper Tool: view 3"
+    },
+    {
+     "src": "/portfolio/design/p07/04.webp",
+     "alt": "Handle & Scraper Tool: view 4"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "slug": "d8",
+   "title": "Electric Shaker Bottle",
+   "cover": "/portfolio/design/p08/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p08/01.webp",
+     "alt": "Electric Shaker Bottle: view 1"
+    },
+    {
+     "src": "/portfolio/design/p08/02.webp",
+     "alt": "Electric Shaker Bottle: view 2"
+    },
+    {
+     "src": "/portfolio/design/p08/03.webp",
+     "alt": "Electric Shaker Bottle: view 3"
+    },
+    {
+     "src": "/portfolio/design/p08/04.webp",
+     "alt": "Electric Shaker Bottle: view 4"
+    },
+    {
+     "src": "/portfolio/design/p08/05.webp",
+     "alt": "Electric Shaker Bottle: view 5"
+    },
+    {
+     "src": "/portfolio/design/p08/06.webp",
+     "alt": "Electric Shaker Bottle: view 6"
+    },
+    {
+     "src": "/portfolio/design/p08/07.webp",
+     "alt": "Electric Shaker Bottle: view 7"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "slug": "d9",
+   "title": "Tablet Stand Parts",
+   "cover": "/portfolio/design/p09/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p09/01.webp",
+     "alt": "Tablet Stand Parts: view 1"
+    },
+    {
+     "src": "/portfolio/design/p09/02.webp",
+     "alt": "Tablet Stand Parts: view 2"
+    },
+    {
+     "src": "/portfolio/design/p09/03.webp",
+     "alt": "Tablet Stand Parts: view 3"
+    },
+    {
+     "src": "/portfolio/design/p09/04.webp",
+     "alt": "Tablet Stand Parts: view 4"
+    },
+    {
+     "src": "/portfolio/design/p09/05.webp",
+     "alt": "Tablet Stand Parts: view 5"
+    },
+    {
+     "src": "/portfolio/design/p09/06.webp",
+     "alt": "Tablet Stand Parts: view 6"
+    },
+    {
+     "src": "/portfolio/design/p09/07.webp",
+     "alt": "Tablet Stand Parts: view 7"
+    },
+    {
+     "src": "/portfolio/design/p09/08.webp",
+     "alt": "Tablet Stand Parts: view 8"
+    },
+    {
+     "src": "/portfolio/design/p09/09.webp",
+     "alt": "Tablet Stand Parts: view 9"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "slug": "d10",
+   "title": "Mechanical Brackets",
+   "cover": "/portfolio/design/p10/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p10/01.webp",
+     "alt": "Mechanical Brackets: view 1"
+    },
+    {
+     "src": "/portfolio/design/p10/02.webp",
+     "alt": "Mechanical Brackets: view 2"
+    },
+    {
+     "src": "/portfolio/design/p10/03.webp",
+     "alt": "Mechanical Brackets: view 3"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "slug": "d11",
+   "title": "Kids Alphabet Stencil Board",
+   "cover": "/portfolio/design/p11/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p11/01.webp",
+     "alt": "Kids Alphabet Stencil Board: view 1"
+    },
+    {
+     "src": "/portfolio/design/p11/02.webp",
+     "alt": "Kids Alphabet Stencil Board: view 2"
+    },
+    {
+     "src": "/portfolio/design/p11/03.webp",
+     "alt": "Kids Alphabet Stencil Board: view 3"
+    },
+    {
+     "src": "/portfolio/design/p11/04.webp",
+     "alt": "Kids Alphabet Stencil Board: view 4"
+    },
+    {
+     "src": "/portfolio/design/p11/05.webp",
+     "alt": "Kids Alphabet Stencil Board: view 5"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "slug": "d12",
+   "title": "Round Cap Housing",
+   "cover": "/portfolio/design/p12/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p12/01.webp",
+     "alt": "Round Cap Housing: view 1"
+    },
+    {
+     "src": "/portfolio/design/p12/02.webp",
+     "alt": "Round Cap Housing: view 2"
+    },
+    {
+     "src": "/portfolio/design/p12/03.webp",
+     "alt": "Round Cap Housing: view 3"
+    },
+    {
+     "src": "/portfolio/design/p12/04.webp",
+     "alt": "Round Cap Housing: view 4"
+    },
+    {
+     "src": "/portfolio/design/p12/05.webp",
+     "alt": "Round Cap Housing: view 5"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "slug": "d13",
+   "title": "Sheet-Metal & Extrusion Brackets",
+   "cover": "/portfolio/design/p13/thumb.webp",
+   "images": [
+    {
+     "src": "/portfolio/design/p13/01.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 1"
+    },
+    {
+     "src": "/portfolio/design/p13/02.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 2"
+    },
+    {
+     "src": "/portfolio/design/p13/03.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 3"
+    },
+    {
+     "src": "/portfolio/design/p13/04.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 4"
+    },
+    {
+     "src": "/portfolio/design/p13/05.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 5"
+    },
+    {
+     "src": "/portfolio/design/p13/06.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 6"
+    },
+    {
+     "src": "/portfolio/design/p13/07.webp",
+     "alt": "Sheet-Metal & Extrusion Brackets: view 7"
+    }
+   ]
+  }
+ ],
+ "printing": [
+  {
+   "n": 1,
+   "slug": "p1",
+   "title": "Roller Part",
+   "cover": "/portfolio/printing/p01/thumb.webp",
+   "items": [
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p01/01.webp",
+     "caption": "3D design model",
+     "alt": "Roller Part: 3D design model"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p01/02.webp",
+     "caption": "Printed part",
+     "alt": "Roller Part: Printed part"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "slug": "p2",
+   "title": "Round Collar Part",
+   "cover": "/portfolio/printing/p02/thumb.webp",
+   "items": [
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p02/01.webp",
+     "caption": "Printed part",
+     "alt": "Round Collar Part: Printed part"
+    },
+    {
+     "type": "video",
+     "src": "/portfolio/printing/p02/video.mp4",
+     "poster": "/portfolio/printing/p02/video.jpg",
+     "caption": "Printed part video",
+     "alt": "Round Collar Part: Printed part video"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "slug": "p3",
+   "title": "Mechanical Assembly Parts",
+   "cover": "/portfolio/printing/p03/thumb.webp",
+   "items": [
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p03/01.webp",
+     "caption": "3D design (SolidWorks assembly)",
+     "alt": "Mechanical Assembly Parts: 3D design (SolidWorks assembly)"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p03/02.webp",
+     "caption": "Slicing preview",
+     "alt": "Mechanical Assembly Parts: Slicing preview"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p03/03.webp",
+     "caption": "Printed parts",
+     "alt": "Mechanical Assembly Parts: Printed parts"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "slug": "p4",
+   "title": "Printed Organizer Case (Black)",
+   "cover": "/portfolio/printing/p04/thumb.webp",
+   "items": [
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/01.webp",
+     "caption": "Initial printing phase",
+     "alt": "Printed Organizer Case (Black): Initial printing phase"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/02.webp",
+     "caption": "Sub parts",
+     "alt": "Printed Organizer Case (Black): Sub parts"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/03.webp",
+     "caption": "Sub assembly",
+     "alt": "Printed Organizer Case (Black): Sub assembly"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/04.webp",
+     "caption": "Main parts completed",
+     "alt": "Printed Organizer Case (Black): Main parts completed"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/05.webp",
+     "caption": "Main parts assembled",
+     "alt": "Printed Organizer Case (Black): Main parts assembled"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/06.webp",
+     "caption": "Fitting check after assembly",
+     "alt": "Printed Organizer Case (Black): Fitting check after assembly"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p04/07.webp",
+     "caption": "Final look",
+     "alt": "Printed Organizer Case (Black): Final look"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "slug": "p5",
+   "title": "Printed Case with Electronics Integration",
+   "cover": "/portfolio/printing/p05/thumb.webp",
+   "items": [
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p05/01.webp",
+     "caption": "Printing initial stage",
+     "alt": "Printed Case with Electronics Integration: Printing initial stage"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p05/02.webp",
+     "caption": "Battery installed",
+     "alt": "Printed Case with Electronics Integration: Battery installed"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p05/03.webp",
+     "caption": "Electronic parts installed",
+     "alt": "Printed Case with Electronics Integration: Electronic parts installed"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p05/04.webp",
+     "caption": "LEDs installed",
+     "alt": "Printed Case with Electronics Integration: LEDs installed"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p05/05.webp",
+     "caption": "Touch buttons",
+     "alt": "Printed Case with Electronics Integration: Touch buttons"
+    },
+    {
+     "type": "image",
+     "src": "/portfolio/printing/p05/06.webp",
+     "caption": "Final look",
+     "alt": "Printed Case with Electronics Integration: Final look"
+    },
+    {
+     "type": "video",
+     "src": "/portfolio/printing/p05/video.mp4",
+     "poster": "/portfolio/printing/p05/video.jpg",
+     "caption": "Final look (video)",
+     "alt": "Printed Case with Electronics Integration: Final look (video)"
+    }
+   ]
+  }
+ ],
+ "overall": {
+  "src": "/portfolio/printing/overall.mp4",
+  "poster": "/portfolio/printing/overall.jpg"
+ },
+ "hero": [
+  {
+   "src": "/portfolio/hero-printer.webp",
+   "label": "3D Printing",
+   "alt": "3D printer printing an orange vase"
+  },
+  {
+   "src": "/portfolio/design/p01/06.webp",
+   "label": "3D Design (SolidWorks)",
+   "alt": "Cordless drill CAD render"
+  },
+  {
+   "src": "/portfolio/printing/p05/06.webp",
+   "label": "3D Printed",
+   "alt": "Printed case with electronics"
+  },
+  {
+   "src": "/portfolio/design/p06/04.webp",
+   "label": "3D Design (SolidWorks)",
+   "alt": "Wheel rim CAD render"
+  },
+  {
+   "src": "/portfolio/printing/p04/07.webp",
+   "label": "3D Printed",
+   "alt": "Printed organizer case"
+  },
+  {
+   "src": "/portfolio/design/p08/05.webp",
+   "label": "3D Design (SolidWorks)",
+   "alt": "Electric shaker bottle CAD render"
+  },
+  {
+   "src": "/portfolio/printing/p01/02.webp",
+   "label": "3D Printed",
+   "alt": "Printed roller part"
+  }
+ ]
+}
